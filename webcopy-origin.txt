@@ -1,0 +1,784 @@
+Uri: https://bbq.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://bbq.webtudong8giay.com/an-ngon-qua-gion-voi-voucher-tang-mon-tai-sun-homes-bbq/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\an-ngon-qua-gion-voi-voucher-tang-mon-tai-sun-homes-bbq\index.htm
+Content Type: text/html
+
+Uri: https://bbq.webtudong8giay.com/an-ngon-qua-gion-voi-voucher-tang-mon-tai-sun-homes-bbq/feed/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\an-ngon-qua-gion-voi-voucher-tang-mon-tai-sun-homes-bbq\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://bbq.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.webtudong8giay.com/ban-da-san-sang-nhap-tiec-cung-sun-homes-bbq-dip-cuoi-nam-chua/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\ban-da-san-sang-nhap-tiec-cung-sun-homes-bbq-dip-cuoi-nam-chua\index.htm
+Content Type: text/html
+
+Uri: https://bbq.webtudong8giay.com/ban-da-san-sang-nhap-tiec-cung-sun-homes-bbq-dip-cuoi-nam-chua/feed/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\ban-da-san-sang-nhap-tiec-cung-sun-homes-bbq-dip-cuoi-nam-chua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://bbq.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.webtudong8giay.com/chao-moi-nguoi/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\chao-moi-nguoi\index.htm
+Content Type: text/html
+
+Uri: https://bbq.webtudong8giay.com/chao-moi-nguoi/feed/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\chao-moi-nguoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.webtudong8giay.com/dat-ban/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\dat-ban\index.htm
+Content Type: text/html
+
+Uri: https://bbq.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://bbq.webtudong8giay.com/khai-truong-sun-homes-bbq-voi-nhieu-uu-dai-hap-dan/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\khai-truong-sun-homes-bbq-voi-nhieu-uu-dai-hap-dan\index.htm
+Content Type: text/html
+
+Uri: https://bbq.webtudong8giay.com/khai-truong-sun-homes-bbq-voi-nhieu-uu-dai-hap-dan/feed/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\khai-truong-sun-homes-bbq-voi-nhieu-uu-dai-hap-dan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://bbq.webtudong8giay.com/sun-homes-bbq-tung-bung-khai-truong-mung-nam-moi-2018/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\sun-homes-bbq-tung-bung-khai-truong-mung-nam-moi-2018\index.htm
+Content Type: text/html
+
+Uri: https://bbq.webtudong8giay.com/sun-homes-bbq-tung-bung-khai-truong-mung-nam-moi-2018/feed/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\sun-homes-bbq-tung-bung-khai-truong-mung-nam-moi-2018\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.webtudong8giay.com/thuc-don/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\thuc-don\index.htm
+Content Type: text/html
+
+Uri: https://bbq.webtudong8giay.com/tuyen-dung/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\tuyen-dung\index.htm
+Content Type: text/html
+
+Uri: https://bbq.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://bbq.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://bbq.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://bbq.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://bbq.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://bbq.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.0
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://bbq.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bbq.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://bbq.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bbq.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://bbq.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://bbq.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.0
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://bbq.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.0
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/01-soda-alternatives-orange-juice-259x300.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\01-soda-alternatives-orange-juice-259x300.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/01-soda-alternatives-orange-juice.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\01-soda-alternatives-orange-juice.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/0d6208722f020705340d841f32286ef1a01f2c196a291bc368-pimgpsh_fullsize_distr.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\0d6208722f020705340d841f32286ef1a01f2c196a291bc368-pimgpsh_fullsize_distr.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/1-11-2014-6-05-19-PM-1024x680.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\1-11-2014-6-05-19-PM-1024x680.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/1-11-2014-6-05-19-PM-300x199.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\1-11-2014-6-05-19-PM-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/1-11-2014-6-05-19-PM-768x510.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\1-11-2014-6-05-19-PM-768x510.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/1-11-2014-6-05-19-PM.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\1-11-2014-6-05-19-PM.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/1212.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\1212.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/213854-set-menu-han-quoc-hap-dan-danh-cho-2-nguoi-suon-nuong-han-quoc-150x150.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\213854-set-menu-han-quoc-hap-dan-danh-cho-2-nguoi-suon-nuong-han-quoc-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/213854-set-menu-han-quoc-hap-dan-danh-cho-2-nguoi-suon-nuong-han-quoc-300x300.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\213854-set-menu-han-quoc-hap-dan-danh-cho-2-nguoi-suon-nuong-han-quoc-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/213854-set-menu-han-quoc-hap-dan-danh-cho-2-nguoi-suon-nuong-han-quoc.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\213854-set-menu-han-quoc-hap-dan-danh-cho-2-nguoi-suon-nuong-han-quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/3cc_color.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\3cc_color.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/4534545345.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\4534545345.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/763sodaglasses-1-259x300.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\763sodaglasses-1-259x300.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/763sodaglasses-1.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\763sodaglasses-1.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/asm_color-1.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\asm_color-1.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/bang-gia-01-1024x165.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\bang-gia-01-1024x165.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/bang-gia-01-300x48.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\bang-gia-01-300x48.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/bang-gia-01-768x124.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\bang-gia-01-768x124.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/bang-gia-01.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\bang-gia-01.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/banh-259x300.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\banh-259x300.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/banh.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\banh.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/banner-234-1024x267.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\banner-234-1024x267.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/banner-234-300x78.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\banner-234-300x78.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/banner-234-768x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\banner-234-768x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/banner-234.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\banner-234.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/blackbean-noodles-259x300.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\blackbean-noodles-259x300.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/blackbean-noodles.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\blackbean-noodles.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/cach-an-thit-nuong-2-300x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\cach-an-thit-nuong-2-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/cach-an-thit-nuong-2.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\cach-an-thit-nuong-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/canh1-259x300.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\canh1-259x300.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/canh1.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\canh1.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/cbjc.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\cbjc.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/concept-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\concept-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/concept-1-768x512.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\concept-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/concept-1.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\concept-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/fzn_0370_ll12-1-1024x681.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\fzn_0370_ll12-1-1024x681.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/fzn_0370_ll12-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\fzn_0370_ll12-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/fzn_0370_ll12-1-768x511.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\fzn_0370_ll12-1-768x511.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/fzn_0370_ll12-1.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\fzn_0370_ll12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/fzn_0370_ll12-1024x681.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\fzn_0370_ll12-1024x681.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/fzn_0370_ll12-300x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\fzn_0370_ll12-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/fzn_0370_ll12-768x511.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\fzn_0370_ll12-768x511.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/fzn_0370_ll12.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\fzn_0370_ll12.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/fzn_0496_ll-900x598-300x199.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\fzn_0496_ll-900x598-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/gogic.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\gogic.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/hutong_color.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\hutong_color.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/icookc.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\icookc.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/images.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\images.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/img20161208034438844-1024x682.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\img20161208034438844-1024x682.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/img20161208034438844-300x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\img20161208034438844-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/img20161208034438844-768x512.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\img20161208034438844-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/img20161208034438844.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\img20161208034438844.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/itachocoloe.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\itachocoloe.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/khaitruong-king-bbq-tan-son-nhi3-300x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\khaitruong-king-bbq-tan-son-nhi3-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/khaitruong-king-bbq-tan-son-nhi3.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\khaitruong-king-bbq-tan-son-nhi3.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/king-300x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\king-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/king-768x513.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\king-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/king.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\king.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/kingbbq-khaitruongdaotan-900x900-150x150.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\kingbbq-khaitruongdaotan-900x900-150x150.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/kingbbq-khaitruongdaotan-900x900-300x300.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\kingbbq-khaitruongdaotan-900x900-300x300.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/kingbbq-khaitruongdaotan-900x900-768x768.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\kingbbq-khaitruongdaotan-900x900-768x768.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/kingbbq-khaitruongdaotan-900x900.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\kingbbq-khaitruongdaotan-900x900.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/lau2-1.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\lau2-1.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/lau2-259x300.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\lau2-259x300.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/lau2.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\lau2.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/logo-cbs-2.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\logo-cbs-2.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/logo-Sunhomes-BBQ-01.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\logo-Sunhomes-BBQ-01.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/macgicc.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\macgicc.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/menu-1024x566.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\menu-1024x566.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/menu-300x166.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\menu-300x166.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/menu-768x425.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\menu-768x425.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/menu.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\menu.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/menu_trang_chu_xeo_xeo_gogi.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\menu_trang_chu_xeo_xeo_gogi.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/nha-hang-king-bbq-1-1-679x1024-199x300.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\nha-hang-king-bbq-1-1-679x1024-199x300.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/nha-hang-king-bbq-1-1-679x1024.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\nha-hang-king-bbq-1-1-679x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/nha-hang-king-bbq-1-2-679x1024-199x300.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\nha-hang-king-bbq-1-2-679x1024-199x300.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/nha-hang-king-bbq-1-2-679x1024.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\nha-hang-king-bbq-1-2-679x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/nuoc-hoa-qua-259x300.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\nuoc-hoa-qua-259x300.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/nuoc-hoa-qua.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\nuoc-hoa-qua.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/screenshot-www.instagram.com-2017-02-07-15-09-36-300x201.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\screenshot-www.instagram.com-2017-02-07-15-09-36-300x201.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/screenshot-www.instagram.com-2017-02-07-15-09-36.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\screenshot-www.instagram.com-2017-02-07-15-09-36.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/slider01-1024x509.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\slider01-1024x509.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/slider01-300x149.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\slider01-300x149.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/slider01-768x382.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\slider01-768x382.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/slider01.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\slider01.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/SLIDER2-1024x509.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\SLIDER2-1024x509.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/SLIDER2-300x149.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\SLIDER2-300x149.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/SLIDER2-768x382.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\SLIDER2-768x382.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/SLIDER2.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\SLIDER2.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/thit-bo-2-259x300.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\thit-bo-2-259x300.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/thit-bo-2.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\thit-bo-2.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/thit-heo-2-jpg-259x300.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\thit-heo-2-jpg-259x300.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/thit-heo-2-jpg.png
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\thit-heo-2-jpg.png
+Content Type: image/png
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/voucher-tng-mon-300x191.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\voucher-tng-mon-300x191.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-content/uploads/2018/02/voucher-tng-mon.jpg
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-content\uploads\2018\02\voucher-tng-mon.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://bbq.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://bbq.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://bbq.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bbq.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bbq.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://bbq.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://bbq.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://bbq.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://bbq.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://bbq.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fan-ngon-qua-gion-voi-voucher-tang-mon-tai-sun-homes-bbq%2F
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fan-ngon-qua-gion-voi-voucher-tang-mon-tai-sun-homes-bbq%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fban-da-san-sang-nhap-tiec-cung-sun-homes-bbq-dip-cuoi-nam-chua%2F
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fban-da-san-sang-nhap-tiec-cung-sun-homes-bbq-dip-cuoi-nam-chua%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fchao-moi-nguoi%2F
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fchao-moi-nguoi%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fdat-ban%2F
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fdat-ban%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fkhai-truong-sun-homes-bbq-voi-nhieu-uu-dai-hap-dan%2F
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fkhai-truong-sun-homes-bbq-voi-nhieu-uu-dai-hap-dan%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fsun-homes-bbq-tung-bung-khai-truong-mung-nam-moi-2018%2F
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fsun-homes-bbq-tung-bung-khai-truong-mung-nam-moi-2018%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fthuc-don%2F
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Fthuc-don%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Ftuyen-dung%2F
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.webtudong8giay.com%2Ftuyen-dung%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://bbq.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/wp/v2/pages/10
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\wp\v2\pages\10
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/wp/v2/pages/4
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\wp\v2\pages\4
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/wp/v2/pages/47
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\wp\v2\pages\47
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/wp/v2/pages/50
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\wp\v2\pages\50
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/wp/v2/pages/6
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\wp\v2\pages\6
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/wp/v2/pages/8
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/wp/v2/posts/282
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\wp\v2\posts\282
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/wp/v2/posts/285
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\wp\v2\posts\285
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/wp/v2/posts/288
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\wp\v2\posts\288
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/wp/v2/posts/291
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\wp\v2\posts\291
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://bbq.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C700%2Cregular%2Cregular|Berkshire+Swash:regular%2Cdefault&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/berkshireswash/v16/ptRRTi-cavZOGqCvnNJDl5m5XmN_qs42.ttf
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\s\berkshireswash\v16\ptRRTi-cavZOGqCvnNJDl5m5XmN_qs42.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbbq.webtudong8giay.com%252Fan-ngon-qua-gion-voi-voucher-tang-mon-tai-sun-homes-bbq%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbbq.webtudong8giay.com%252Fban-da-san-sang-nhap-tiec-cung-sun-homes-bbq-dip-cuoi-nam-chua%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbbq.webtudong8giay.com%252Fchao-moi-nguoi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbbq.webtudong8giay.com%252Fkhai-truong-sun-homes-bbq-voi-nhieu-uu-dai-hap-dan%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbbq.webtudong8giay.com%252Fsun-homes-bbq-tung-bung-khai-truong-mung-nam-moi-2018%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\bbq.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
